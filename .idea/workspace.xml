@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735604ff-86d9-4292-b25a-47572c4f885b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Lox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/TokenType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jlox/software/full_stack/Lox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/software/full_stack/Lox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jlox/software/full_stack/Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jlox/software/full_stack/Scanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Lox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Scanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -58,8 +56,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
@@ -103,7 +101,7 @@
       <workItem from="1704246656465" duration="323000" />
       <workItem from="1704246998495" duration="192000" />
       <workItem from="1704249795229" duration="90000" />
-      <workItem from="1704249886800" duration="5517000" />
+      <workItem from="1704249886800" duration="9069000" />
     </task>
     <servers />
   </component>
