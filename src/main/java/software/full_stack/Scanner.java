@@ -81,6 +81,11 @@ public class Scanner {
                 if(match('/')) {
                     // A comment goes on until the end of the line
                     while(peek() != '\n' && !isAtEnd()) advance();
+
+                } else if (match('*')) {
+                    // multiblock comment /* */ check
+                    while(peek() != '*' && peekNext() != '/' && !isAtEnd()) advance();
+
                 } else {
                     addToken(SLASH);
                 }
