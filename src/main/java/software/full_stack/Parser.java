@@ -1,5 +1,6 @@
 package software.full_stack;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import static software.full_stack.TokenType.*;
@@ -21,18 +22,37 @@ public class Parser {
 
     // Kick off parser
     // TODO: change when adding statements
-    Expr parse () {
-        try {
-            return expression();
-        } catch (ParseError error) {
-            return null;
+    List<Stmt> parse () {
+        List<Stmt> statements = new ArrayList<>();
+        while (!isAtEnd()) {
+            statements.add(statement());
         }
+
+        return statements;
     }
 
     // Expand an expression to an equality
     // equality -> comparison( ("!=" | "==") comparison)* ;
     private Expr expression() {
         return equality();
+    }
+
+    private Stmt statement() {
+        if (match(PRINT)) return printStatement();
+
+        return expressionStatement();
+    }
+
+    private Stmt printStatement() {
+        Expr value = expression();
+        consume(SEMICOLON, "Expect ';' after value");
+        return new Stmt.Print(value);
+    }
+
+    private Stmt expressionStatement() {
+        Expr expr = expression();
+        consume(SEMICOLON, "Expect ';' after value");
+        return new Stmt.Expression(expr);
     }
 
     // The entry point
