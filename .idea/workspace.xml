@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebd4df4-d42f-4c91-9b68-14ce3dc0ea9a" name="Changes" comment="" />
+    <list default="true" id="2ebd4df4-d42f-4c91-9b68-14ce3dc0ea9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Environment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/AstPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/AstPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Expr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Interpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Stmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Stmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/tool/GenerateAst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/tool/GenerateAst.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +46,7 @@
     "Application.Lox.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/edwin/Documents/Programming/interpreter/jlox",
     "node.js.detected.package.eslint": "true",
@@ -47,7 +57,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Generate AST">
+  <component name="RunManager" selected="Application.Lox">
     <configuration name="Generate AST" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="software.tool.GenerateAst" />
       <module name="jlox" />
