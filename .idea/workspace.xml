@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2ebd4df4-d42f-4c91-9b68-14ce3dc0ea9a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Environment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/AstPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/AstPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Expr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Interpreter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Parser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Stmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Stmt.java" afterDir="false" />
@@ -106,7 +107,8 @@
       <workItem from="1707183266625" duration="2417000" />
       <workItem from="1707185697270" duration="2445000" />
       <workItem from="1707722480859" duration="1723000" />
-      <workItem from="1707838706572" duration="688000" />
+      <workItem from="1707838706572" duration="763000" />
+      <workItem from="1707921240126" duration="2246000" />
     </task>
     <servers />
   </component>
