@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0b73c19-7ca1-4d63-a631-d218d1642311" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/LoxClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/LoxInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/AstPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/AstPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Expr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Interpreter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/LoxFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/LoxFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/LoxClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/LoxClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Parser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Resolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Resolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/software/full_stack/Stmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/full_stack/Stmt.java" afterDir="false" />
@@ -51,12 +49,14 @@
     "Application.Lox.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
